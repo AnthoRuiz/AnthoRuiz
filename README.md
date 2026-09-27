@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Full-Stack+Architectures+%26+Scalable+APIs;Writing+Clean%2C+Reliable+%26+Resilient+Code" alt="Anthony Ruiz Typing SVG" width="750" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Full-Stack+Architectures+%26+Scalable+APIs;Writing+Clean%2C+Reliable+%26+Resilient+Code" alt="Anthony Ruiz Typing SVG" width="750" />
 </p>
 
 <p align="center"><b>Software Engineer · Backend &amp; Full-Stack · Cloud &amp; Containers</b></p>
