@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Anthony Ruiz — Software Engineer" width="100%" />
+  <a href="#anthony-ruiz"><img src="assets/header.svg" alt="Anthony Ruiz — Software Engineer" width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Full-Stack+Architectures+%26+Scalable+APIs;Writing+Clean%2C+Reliable+%26+Resilient+Code" alt="Anthony Ruiz Typing SVG" width="750" />
+  <a href="#anthony-ruiz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Full-Stack+Architectures+%26+Scalable+APIs;Writing+Clean%2C+Reliable+%26+Resilient+Code" alt="Anthony Ruiz Typing SVG" width="750" /></a>
 </p>
 
 <p align="center"><b>Software Engineer · Backend &amp; Full-Stack · Cloud &amp; Containers</b></p>
@@ -46,19 +46,29 @@ Lately, I've been focusing on system observability, asynchronous processing, and
 ## 📊 Stats overview
 
 <p align="center">
-  <a href="https://github.com/AnthoRuiz?tab=overview">
+  <a href="#-stats-overview">
     <img src="https://streak-stats.demolab.com/?user=AnthoRuiz&theme=tokyonight&hide_border=true" alt="Anthony's total contributions, current streak, and longest streak" width="520" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoRuiz&theme=tokyonight&name=Anthony%20Ruiz" alt="Anthony Ruiz's GitHub profile summary and contribution activity" width="700" />
+  <a href="#-stats-overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoRuiz&theme=tokyonight&name=Anthony%20Ruiz" alt="Anthony Ruiz's GitHub profile summary and contribution activity" width="700" />
+  </a>
 </p>
 
 <table align="center">
   <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthoRuiz&theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnthoRuiz&theme=tokyonight&utcOffset=-5" alt="Commit activity by hour in UTC" width="100%" /></td>
+    <td width="50%">
+      <a href="#-stats-overview">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthoRuiz&theme=tokyonight" alt="Top languages across repositories" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="#-stats-overview">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnthoRuiz&theme=tokyonight&utcOffset=-5" alt="Commit activity by hour in UTC" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
