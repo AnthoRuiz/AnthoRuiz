@@ -3,14 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="#anthony-ruiz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Full-Stack+Architectures+%26+Scalable+APIs;Writing+Clean%2C+Reliable+%26+Resilient+Code" alt="Anthony Ruiz Typing SVG" width="750" /></a>
+  <a href="#anthony-ruiz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Software+Development+Engineer;Backend+Architectures+%26+Distributed+Systems;FastAPI+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;Operational+Excellence+%26+Clean+Architecture" alt="Anthony Ruiz Typing SVG" width="750" /></a>
 </p>
 
-<p align="center"><b>Software Engineer · Backend &amp; Full-Stack · Cloud &amp; Containers</b></p>
+<p align="center"><b>Software Engineer · Backend &amp; Distributed Systems · Cloud &amp; Containers</b></p>
 
-I'm a software engineer focused on building robust, high-performance backend systems and clean, modern full-stack web applications. I specialize in designing scalable APIs, database architectures, and containerized services using **Python**, **FastAPI**, **PostgreSQL**, **Docker**, and **React / TypeScript**.
+I'm a **Software Engineer** specializing in designing and implementing high-performance, fault-tolerant backend architectures and modern full-stack web applications. My engineering philosophy centers on **Clean Architecture**, **Test-Driven Development (TDD)**, and **Operational Excellence**—exercising end-to-end ownership from data modeling and API design to containerized deployment and system monitoring.
 
-Lately, I've been focusing on system observability, asynchronous processing, and developer tooling.
+My core stack includes **Python (FastAPI, Django REST)**, **PostgreSQL**, **Docker**, and **TypeScript / React**.
+
+- ⚡ **Scalable Distributed Systems:** Designing high-throughput, asynchronous APIs with optimized query performance and robust transactional integrity.
+- 🔭 **Operational Excellence & Observability:** Implementing real-time telemetry, ASGI latency tracking, structured rotating logs, and proactive error boundaries.
+- 🧪 **Code Quality & Reliability:** Writing modular, testable code backed by rigorous automated test suites and multi-stage containerized environments.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthoruiz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
