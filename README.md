@@ -43,7 +43,23 @@ Lately, I've been focusing on system observability, asynchronous processing, and
 
 ---
 
+## 📊 Stats overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthoRuiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoRuiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/AnthoRuiz?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=AnthoRuiz&theme=tokyonight&hide_border=true" alt="Anthony's total contributions, current streak, and longest streak" width="520" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthoRuiz&theme=tokyonight&name=Anthony%20Ruiz" alt="Anthony Ruiz's GitHub profile summary and contribution activity" width="700" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthoRuiz&theme=tokyonight" alt="Top languages across repositories" width="100%" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnthoRuiz&theme=tokyonight&utcOffset=-5" alt="Commit activity by hour in UTC" width="100%" /></td>
+  </tr>
+</table>
+
+<sub>Stats refresh through external services and may be cached. Language breakdown is by repository; commit hours are shown in UTC. Powered by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> and <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Profile Summary Cards</a>.</sub>
