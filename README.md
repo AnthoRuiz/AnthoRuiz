@@ -38,7 +38,7 @@ Lately, I've been focusing on system observability, asynchronous processing, and
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,ts,js,postgres,docker,nginx,git,linux,postman,tailwind" alt="Tech Stack" />
+  <a><img src="https://skillicons.dev/icons?i=python,fastapi,django,react,ts,js,postgres,docker,nginx,git,linux,postman,tailwind" alt="Tech Stack" /></a>
 </p>
 
 ---
